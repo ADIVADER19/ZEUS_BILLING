@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=bill
+comment1.params=count1
+comment1.target=void\ cart(int)
+comment2.params=total1
+comment2.target=void\ bill(double)
+comment3.params=
+comment3.target=void\ exit()
+comment4.params=
+comment4.target=void\ main()
+comment5.params=
+comment5.target=int\ buy()
+numComments=6

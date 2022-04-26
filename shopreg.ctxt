@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=shopreg
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=shopreg()
+comment3.params=r
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=4
